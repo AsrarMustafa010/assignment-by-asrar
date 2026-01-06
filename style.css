@@ -1,0 +1,38 @@
+.box{
+    margin-left: 16%;
+}
+.morework{
+    left: 44em;
+    top: 48em;
+    overflow-x:hidden ;
+    height: 48em;
+    
+} 
+.box2{
+    width: 35em;
+    border: 2px solid;
+    justify-content: center;
+    position: absolute;
+    left: 27em;
+  top: 100em;
+}
+/* .red{
+    height: 10em;
+    text-align:start;
+  align-items:start;
+ 
+} */
+ textarea{
+    height: 8em;
+ }
+ .box4{
+   position: absolute;
+   top: 130em;
+   justify-content:space-evenly;
+   
+   display: flex;
+ }
+ .heading{
+    color: rgb(0, 247, 251);
+    font-weight: 600;
+ }
